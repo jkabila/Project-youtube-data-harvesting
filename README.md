@@ -9,10 +9,9 @@ Prerequisites
 Python 3.x
 Google Developer Account
 YouTube Data API Key
-Google Cloud Platform (GCP) Account (for advanced usage)
-Libraries: google-api-python-client, pandas, numpy, sqlalchemy, requests, etc.
+
+Libraries: google-api-python-client, pandas, streamlit.
 Setup
-Google Developer Account: If you don't have one, create a Google Developer Account at Google Developers Console.
 
 Enable YouTube Data API: In the Google Developers Console, enable the YouTube Data API for your project.
 
@@ -26,7 +25,7 @@ Use YouTube Data API: Utilize the YouTube Data API to retrieve the desired data.
 Python Script: Write Python scripts to interact with the YouTube Data API. Use libraries like google-api-python-client to make requests and retrieve data.
 
 Data Warehousing
-Data Storage: Decide on the storage method for the harvested data. Options include relational databases (MySQL, PostgreSQL), NoSQL databases (MongoDB), cloud storage (Google Cloud Storage, Amazon S3), etc.
+Data Storage: Decide on the storage method for the harvested data. Options include relational databases (MySQL, PostgreSQL).
 
 Data Schema: Define a schema for storing the data. This could involve creating tables/collections with appropriate fields to store the retrieved information.
 
