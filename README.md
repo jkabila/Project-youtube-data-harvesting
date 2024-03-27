@@ -24,6 +24,18 @@ Use YouTube Data API: Utilize the YouTube Data API to retrieve the desired data.
 
 Python Script: Write Python scripts to interact with the YouTube Data API. Use libraries like google-api-python-client to make requests and retrieve data.
 
+echnologies Used:
+
+Python
+
+Google API Client Library
+
+MongoDB
+
+PostgreSQL
+
+Streamlit
+
 Data Warehousing
 Data Storage: Decide on the storage method for the harvested data. Options include relational databases (MySQL, PostgreSQL).
 
